@@ -11,7 +11,7 @@
       *
       *If there is a bad warehouse record in one of the files, the program will
       * instead skip processing that warehouse and put that record into a file named
-      * bad-warehouse-records.txt.
+      * bad-warehouse-records.txt. 
       * **************************************************************
       *This program also checks if the data that is brought is in correct,
       * for example, the price should be numeric, if not, it will leave that
